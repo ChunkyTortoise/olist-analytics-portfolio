@@ -8,7 +8,6 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
-from scipy.spatial.distance import cdist
 
 
 # ─── RFM Computation ──────────────────────────────────────────────────────────
