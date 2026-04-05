@@ -100,7 +100,13 @@ print(result.head())
 
 ## Screenshots
 
-*Add screenshots here after running the dashboard locally.*
+![Olist Analytics Dashboard](docs/screenshots/dashboard-tour.gif)
+
+**Sales Overview** — KPI cards, monthly revenue trend (R$ 13.3M across 96K orders), revenue by category and state.
+
+**Customer Segments** — RFM K-Means clustering (k=4): Champions, Loyal, At-Risk, Hibernating. PCA 2D projection + segment distribution.
+
+**Delivery Performance** — 7.9% late delivery rate, 12.4 day avg delivery, review score gap: 4.21 on-time vs 2.55 late.
 
 ---
 
