@@ -1,6 +1,5 @@
 # Data files (download from Kaggle)
 data/raw/
-data/processed/*.parquet
 data/processed/*.csv
 
 # Python

@@ -72,7 +72,7 @@ olist-analytics-portfolio/
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/cayman-roden/olist-analytics-portfolio
+git clone https://github.com/ChunkyTortoise/olist-analytics-portfolio
 cd olist-analytics-portfolio
 pip install -r requirements.txt
 
@@ -108,4 +108,4 @@ print(result.head())
 
 Built by **Cayman Roden** as a data analyst portfolio project.  
 Domain: E-commerce analytics | Stack: Python · SQL · Streamlit  
-[LinkedIn](#) · [Other Projects: CFPB Mortgage Analytics](#)
+[LinkedIn](https://www.linkedin.com/in/caymanroden/) · [GitHub](https://github.com/ChunkyTortoise/olist-analytics-portfolio)
