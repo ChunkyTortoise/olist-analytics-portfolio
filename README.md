@@ -33,7 +33,7 @@
 | [SQL Analysis](sql/analysis/) | 10 PostgreSQL queries: revenue growth, cohort retention, RFM scoring, seller performance, delivery analysis, and more |
 | [EDA Notebook](notebooks/01_eda_cleaning.ipynb) | Data cleaning pipeline, revenue trends, delivery performance, review score analysis |
 | [Segmentation Notebook](notebooks/02_customer_segmentation.ipynb) | RFM computation, K-Means clustering, cluster validation, business segment labeling |
-| [Interactive Dashboard](#) | Live Streamlit app: Sales Overview, Customer Segments, Delivery Performance |
+| [Interactive Dashboard](https://olist-analytics-portfo-nbpkbqj3vy7dpa2tus56th.streamlit.app) | Live Streamlit app: Sales Overview, Customer Segments, Delivery Performance |
 | [Business Memo](docs/business_memo.md) | 1-page analyst memo with executive summary, insights, and recommendations |
 | [Data Quality Log](docs/DATA_QUALITY.md) | Cleaning decisions documented per PMC framework |
 
